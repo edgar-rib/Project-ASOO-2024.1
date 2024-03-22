@@ -1,0 +1,82 @@
+Sprint 1:
+Cadastro de Usuário:
+Prioridade: Alta
+Descrição: Permitir que os usuários se cadastrem no sistema, fornecendo
+informações básicas como nome, e-mail e senha.
+
+Autenticação de Usuário:
+Prioridade: Alta
+Descrição: Implementar o sistema de autenticação para permitir que os
+usuários façam login com suas credenciais.
+
+Interface do Usuário (UI) Básica:
+Prioridade: Alta
+Descrição: Desenvolver uma interface de usuário básica com navegação
+entre as principais seções do sistema.
+*****************************************
+Sprint 2:
+Cadastro de Culturas:
+Prioridade: Alta
+Descrição: Implementar a funcionalidade de cadastro de culturas, incluindo
+nome, descrição e período de plantio.
+
+Registro de Plantio:
+Prioridade: Alta
+Descrição: Permitir que os usuários registrem informações sobre o plantio,
+como data, quantidade de sementes e método de plantio.
+
+Controle de Irrigação Básico:
+Prioridade: Média
+Descrição: Desenvolver uma funcionalidade básica de controle de irrigação,
+permitindo que os usuários programem a irrigação das plantas.
+*****************************************
+Sprint 3:
+Monitoramento de Crescimento das Plantas:
+Prioridade: Alta
+Descrição: Implementar a funcionalidade de registro e acompanhamento do
+crescimento das plantas, permitindo que os usuários insiram dados como
+altura e estágio de desenvolvimento.
+
+Gestão de Pragas e Doenças:
+Prioridade: Média
+Descrição: Desenvolver uma funcionalidade para o registro e controle de
+pragas e doenças que afetam as plantas.
+
+Planejamento de Colheita:
+Prioridade: Média
+Descrição: Permitir que os usuários planejem as colheitas, registrando datas
+previstas e estimativas de produção.
+*****************************************
+Sprint 4:
+Gestão de Estoque de Insumos Agrícolas:
+Prioridade: Alta
+Descrição: Implementar o controle de estoque de insumos agrícolas,
+permitindo o registro de entradas e saídas de itens como sementes,
+fertilizantes e pesticidas.
+
+Análise de Dados e Relatórios Básicos:
+Prioridade: Média
+Descrição: Desenvolver funcionalidades básicas para análise de dados
+agrícolas, incluindo relatórios de produção e desempenho das culturas.
+
+Testes de Usabilidade e Qualidade:
+Prioridade: Alta
+Descrição: Realizar testes de usabilidade e qualidade para garantir que o
+sistema atenda aos requisitos e expectativas dos usuários.
+*****************************************
+Sprint 5:
+Melhorias na Interface do Usuário:
+Prioridade: Média
+Descrição: Realizar melhorias na interface do usuário com base no feedback
+dos testes de usabilidade.
+
+Implementação de Recursos de Segurança:
+Prioridade: Alta
+Descrição: Reforçar a segurança do sistema implementando medidas de
+proteção de dados e prevenção de acessos não autorizados.
+
+Documentação do Sistema:
+Prioridade: Baixa
+Descrição: Elaborar documentação abrangente do sistema, incluindo manuais
+de usuário e guias de desenvolvimento.
+*****************************************
