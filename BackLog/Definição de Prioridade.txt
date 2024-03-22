@@ -1,0 +1,52 @@
+Nível de Prioridade: Alta
+
+Cadastro de Culturas:
+Descrição: Implementar a funcionalidade que permite aos usuários cadastrar
+informações sobre as culturas plantadas na fazenda urbana.
+Critérios de Aceitação: Interface de usuário para inserir nome da cultura,
+descrição, período de plantio e tempo de crescimento.
+Estimativa de Esforço: 16 horas.
+
+Registro de Plantio:
+Descrição: Desenvolver a capacidade de registrar informações relacionadas
+ao plantio das culturas.
+Critérios de Aceitação: Formulário para inserir data de plantio, quantidade de
+sementes, área plantada e método de plantio.
+Estimativa de Esforço: 20 horas.
+
+Controle de Irrigação Básico:
+Descrição: Implementar funcionalidades básicas de controle de irrigação.
+Critérios de Aceitação: Interface para definir horários de irrigação e registro
+de consumo de água.
+Estimativa de Esforço: 24 horas.
+Nível de Prioridade: Média
+
+Monitoramento de Crescimento:
+Descrição: Desenvolver a capacidade de monitorar o crescimento das plantas
+ao longo do tempo.
+Critérios de Aceitação: Interface para inserir dados sobre altura, peso e
+estágio de desenvolvimento das plantas.
+Estimativa de Esforço: 32 horas.
+
+Gestão de Pragas e Doenças:
+Descrição: Implementar funcionalidades para identificar e controlar pragas e
+doenças nas plantações.
+Critérios de Aceitação: Sistema de alerta para identificar pragas e doenças
+comuns, registro de tratamentos aplicados.
+Estimativa de Esforço: 36 horas.
+
+Nível de Prioridade: Baixa
+Gestão de Estoque de Insumos:
+Descrição: Desenvolver uma funcionalidade para gerenciar o estoque de
+insumos agrícolas.
+Critérios de Aceitação: Registro de entrada e saída de sementes, fertilizantes
+e pesticidas, com alertas de estoque baixo.
+Estimativa de Esforço: 40 horas.
+
+Análise de Dados e Relatórios:
+Descrição: Implementar ferramentas para análise de dados agrícolas e
+geração de relatórios.
+Critérios de Aceitação: Relatórios de produção, análise de desempenho das
+culturas, gráficos de tendência.
+Estimativa de Esforço: 48 horas.
+*****************************************
