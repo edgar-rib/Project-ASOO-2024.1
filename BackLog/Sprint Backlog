@@ -1,0 +1,58 @@
+Sprint Backlog  
+
+ 
+
+Sprint 1: Definição do Projeto 
+
+
+Regra de Negócio: Documentar as regras de negócio do sistema, incluindo processos de gerenciamento da fazenda urbana e requisitos do usuário. 
+
+Análise de Sistemas Orientada a Objetos: Criar diagramas UML de casos de uso que descrevam as interações entre os atores e o sistema. (Astah) 
+
+Economia e Mercado: Realizar uma estimativa inicial da viabilidade do projeto, considerando custos de desenvolvimento, possíveis retornos financeiros e análise de mercado. (Excel) 
+
+Gestão Estratégica de Recursos Humanos: Identificar as habilidades e recursos humanos necessários para o projeto, incluindo equipe de desenvolvimento. (Excel) 
+
+
+Sprint 2: Projeto e Prototipação 
+
+
+Análise de Sistemas Orientada a Objetos: Criar diagramas UML de classes e sequência para definir a estrutura e o comportamento do sistema. (Astah) 
+
+Projeto de Interface com o Usuário: Iniciar o projeto de telas do sistema, criando wireframes e protótipos de interface para validar os requisitos com os usuários. (Figma) 
+
+Banco de Dados: Desenvolver o diagrama ER do banco de dados, identificando entidades, atributos e relacionamentos necessários para o sistema. (BrModelo) 
+
+
+Sprint 3: Desenvolvimento do Core 
+
+
+Programação Orientada a Objetos: Desenvolver o Proof of Concept (PoC) em modo console, implementando operações básicas de CRUD (Criar, Ler, Atualizar, Apagar) para validar a arquitetura e o design do sistema. (Visual Studio Community) 
+
+Projeto de Interface com o Usuário: Continuar o projeto de telas do sistema, refinando os wireframes e protótipos com base no feedback recebido. (Figma) 
+
+
+Sprint 4: Implementação e Testes 
+
+
+Programação Orientada a Objetos: Refinar o PoC e implementar funcionalidades básicas de CRUD, utilizando boas práticas de programação e design orientado a objetos. (Visual Studio Community) 
+
+Engenharia de Software: Elaborar uma planilha de testes abrangente que cubra todas as funcionalidades implementadas até o momento, incluindo testes de unidade, integração e sistema. (Excel) 
+
+
+Sprint 5: Refinamentos e Testes 
+
+
+Programação Orientada a Objetos: Continuar o desenvolvimento das funcionalidades de CRUD, realizando ajustes e refinamentos conforme necessário com base no feedback recebido durante a sprint. (Visual Studio) 
+
+Engenharia de Software: Executar testes automatizados e manuais para validar as funcionalidades implementadas, corrigindo eventuais defeitos e garantindo a qualidade do software.  
+
+
+Sprint 6: Finalização e Entrega 
+
+
+Programação Orientada a Objetos: Concluir a implementação das funcionalidades de CRUD e realizar os últimos ajustes e polimentos no código. 
+
+Banco de Dados: Desenvolver scripts de carga de dados de teste para população inicial do banco de dados. 
+
+Engenharia de Software: Finalizar os testes e preparar a entrega do sistema, documentando o processo de desenvolvimento e garantindo a conformidade com os requisitos do usuário. 
