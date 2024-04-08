@@ -1,0 +1,86 @@
+Tabela: Usuários
+| Campo       | Tipo        | Restrições              |
+|-------------|-------------|-------------------------|
+| user_id     | INT         | Chave Primária          |
+| nome        | VARCHAR(50) | Não Nulo                |
+| email       | VARCHAR(50) | Não Nulo, Único         |
+| senha       | VARCHAR(50) | Não Nulo                |
+
+Tabela: Fazendas
+| Campo       | Tipo        | Restrições               |
+|-------------|-------------|--------------------------|
+| fazenda_id  | INT         | Chave Primária           |
+| nome        | VARCHAR(50) | Não Nulo                 |
+| endereco    | VARCHAR(100)|                          |
+| tamanho     | DECIMAL(10,2)|                         |
+| clima       | VARCHAR(50) |                          |
+
+Tabela: Culturas
+| Campo           | Tipo        | Restrições              |
+|-----------------|-------------|-------------------------|
+| cultura_id      | INT         | Chave Primária          |
+| nome            | VARCHAR(50) | Não Nulo                |
+| descricao       | TEXT        |                         |
+| periodo_plantio | VARCHAR(100)|                         |
+
+Tabela: Plantios
+| Campo              | Tipo        | Restrições                   |
+|--------------------|-------------|------------------------------|
+| plantio_id         | INT         | Chave Primária               |
+| fazenda_id         | INT         | Chave Estrangeira (Fazendas) |
+| cultura_id         | INT         | Chave Estrangeira (Culturas) |
+| data               | DATE        |                              |
+| quantidade_sementes| INT         |                              |
+| metodo_plantio     | VARCHAR(100)|                              |
+
+Tabela: Irrigação
+| Campo            | Tipo        | Restrições                   |
+|------------------|-------------|------------------------------|
+| irrigacao_id     | INT         | Chave Primária               |
+| fazenda_id       | INT         | Chave Estrangeira (Fazendas) |
+| data             | DATE        |                              |
+| duracao          | TIME        |                              |
+| observacoes      | TEXT        |                              |
+
+Tabela: Crescimento_Plantas
+| Campo                  | Tipo         | Restrições                   |
+|------------------------|--------------|------------------------------|
+| crescimento_id         | INT          | Chave Primária               |
+| plantio_id             | INT          | Chave Estrangeira (Plantios) |
+| altura                 | DECIMAL(5,2) |                              |
+| estagio_desenvolvimento| VARCHAR(50)  |                              |
+| data_registro          | DATETIME     |                              |
+
+Tabela: Pragas_Doenças
+| Campo                | Tipo        | Restrições              |
+|----------------------|-------------|-------------------------|
+| praga_doenca_id      | INT         | Chave Primária          |
+| plantio_id           | INT         | Chave Estrangeira (Plantios) |
+| nome                 | VARCHAR(100)|                         |
+| descricao            | TEXT        |                         |
+| data_identificacao   | DATE        |                         |
+| tratamento           | TEXT        |                         |
+
+Tabela: Colheitas
+
+| Campo                | Tipo        | Restrições              |
+|----------------------|-------------|-------------------------|
+| colheita_id          | INT         | Chave Primária          |
+| plantio_id           | INT         | Chave Estrangeira (Plantios) |
+| data_prevista        | DATE        |                         |
+| estimativa_producao  | DECIMAL(10,2)|                         |
+
+Tabela: Estoque_Insumos_Agrícolas
+| Campo                | Tipo        | Restrições              |
+|----------------------|-------------|-------------------------|
+| estoque_id           | INT         | Chave Primária          |
+| fazenda_id           | INT         | Chave Estrangeira (Fazendas) |
+| insumo               | VARCHAR(100)|                         |
+| quantidade           | INT         |                         |
+| data_entrada         | DATE        |                         |
+| data_saida           | DATE        |                         |
+
+
+
+
+
