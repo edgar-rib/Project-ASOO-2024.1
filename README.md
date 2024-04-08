@@ -31,9 +31,4 @@ As reuniões diárias (Daily Scrum) estão sendo realizadas Diariamente, às 23:
 - Diagramas UML: [Diagramas](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/Diagrama%20UML)
 - Outros recursos: [Prototipo Interface](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/Prototipagem%20Interface%20%20UI)
 
-## Contato
-Para mais informações sobre o projeto ou para entrar em contato com a equipe, você pode enviar um e-mail para [endereço de e-mail] ou abrir uma issue neste repositório.
 
----
-
-Sinta-se à vontade para ajustar ou expandir conforme necessário para atender às necessidades específicas do seu projeto.
