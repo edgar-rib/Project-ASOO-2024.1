@@ -1,0 +1,53 @@
+-----------------------------------
+|            Fazenda               |
+-----------------------------------
+| - id: int                        |
+| - nome: string                   |
+| - endereco: string               |
+| - tamanho: double                |
+| - clima: string                  |
+-----------------------------------
+| + cadastrarFazenda()            |
+| + atualizarFazenda()            |
+| + removerFazenda()              |
+-----------------------------------
+
+-----------------------------------
+|            Usuário               |
+-----------------------------------
+| - id: int                        |
+| - nome: string                   |
+| - email: string                  |
+| - senha: string                  |
+-----------------------------------
+| + cadastrarUsuario()            |
+| + autenticarUsuario()           |
+| + atualizarUsuario()            |
+| + removerUsuario()              |
+-----------------------------------
+
+-----------------------------------
+|            Cultura               |
+-----------------------------------
+| - id: int                        |
+| - nome: string                   |
+| - descricao: string              |
+| - periodoPlantio: string         |
+-----------------------------------
+| + cadastrarCultura()            |
+| + atualizarCultura()            |
+| + removerCultura()              |
+-----------------------------------
+
+-----------------------------------
+|           Plantio                |
+-----------------------------------
+| - id: int                        |
+| - data: date                     |
+| - quantidadeSementes: int        |
+| - metodoPlantio: string          |
+-----------------------------------
+| + registrarPlantio()            |
+| + atualizarPlantio()            |
+| + removerPlantio()              |
+-----------------------------------
