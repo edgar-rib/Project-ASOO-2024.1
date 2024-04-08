@@ -1,82 +1,45 @@
-Sprint 1:
-Cadastro de Usuário:
-Prioridade: Alta
-Descrição: Permitir que os usuários se cadastrem no sistema, fornecendo
-informações básicas como nome, e-mail e senha.
+Backlog para Modelagem UML do Sistema de Fazenda Urbana:
 
-Autenticação de Usuário:
-Prioridade: Alta
-Descrição: Implementar o sistema de autenticação para permitir que os
-usuários façam login com suas credenciais.
+Levantamento de Requisitos:
 
-Interface do Usuário (UI) Básica:
-Prioridade: Alta
-Descrição: Desenvolver uma interface de usuário básica com navegação
-entre as principais seções do sistema.
-*****************************************
-Sprint 2:
-Cadastro de Culturas:
-Prioridade: Alta
-Descrição: Implementar a funcionalidade de cadastro de culturas, incluindo
-nome, descrição e período de plantio.
+Revisar os requisitos funcionais e não funcionais para identificar os principais elementos do sistema.
 
-Registro de Plantio:
-Prioridade: Alta
-Descrição: Permitir que os usuários registrem informações sobre o plantio,
-como data, quantidade de sementes e método de plantio.
+Identificação de Entidades:
 
-Controle de Irrigação Básico:
-Prioridade: Média
-Descrição: Desenvolver uma funcionalidade básica de controle de irrigação,
-permitindo que os usuários programem a irrigação das plantas.
-*****************************************
-Sprint 3:
-Monitoramento de Crescimento das Plantas:
-Prioridade: Alta
-Descrição: Implementar a funcionalidade de registro e acompanhamento do
-crescimento das plantas, permitindo que os usuários insiram dados como
-altura e estágio de desenvolvimento.
+Identificar as principais entidades do sistema, como Usuário, Cultura, Plantio, Irrigação, Crescimento de Plantas, Pragas e Doenças, Colheita e Estoque de Insumos Agrícolas.
 
-Gestão de Pragas e Doenças:
-Prioridade: Média
-Descrição: Desenvolver uma funcionalidade para o registro e controle de
-pragas e doenças que afetam as plantas.
+Definição de Atributos:
 
-Planejamento de Colheita:
-Prioridade: Média
-Descrição: Permitir que os usuários planejem as colheitas, registrando datas
-previstas e estimativas de produção.
-*****************************************
-Sprint 4:
-Gestão de Estoque de Insumos Agrícolas:
-Prioridade: Alta
-Descrição: Implementar o controle de estoque de insumos agrícolas,
-permitindo o registro de entradas e saídas de itens como sementes,
-fertilizantes e pesticidas.
+Definir os atributos de cada entidade com base nos requisitos funcionais, como nome, e-mail e senha para Usuário, nome e período de plantio para Cultura, data e quantidade de sementes para Plantio, entre outros.
 
-Análise de Dados e Relatórios Básicos:
-Prioridade: Média
-Descrição: Desenvolver funcionalidades básicas para análise de dados
-agrícolas, incluindo relatórios de produção e desempenho das culturas.
+Estabelecimento de Relacionamentos:
 
-Testes de Usabilidade e Qualidade:
-Prioridade: Alta
-Descrição: Realizar testes de usabilidade e qualidade para garantir que o
-sistema atenda aos requisitos e expectativas dos usuários.
-*****************************************
-Sprint 5:
-Melhorias na Interface do Usuário:
-Prioridade: Média
-Descrição: Realizar melhorias na interface do usuário com base no feedback
-dos testes de usabilidade.
+Estabelecer os relacionamentos entre as entidades, como associações entre Usuário e Cultura (um usuário pode ter várias culturas), Plantio e Cultura (um plantio está associado a uma cultura), entre outros.
 
-Implementação de Recursos de Segurança:
-Prioridade: Alta
-Descrição: Reforçar a segurança do sistema implementando medidas de
-proteção de dados e prevenção de acessos não autorizados.
+Identificação de Casos de Uso:
 
-Documentação do Sistema:
-Prioridade: Baixa
-Descrição: Elaborar documentação abrangente do sistema, incluindo manuais
-de usuário e guias de desenvolvimento.
-*****************************************
+Identificar os principais casos de uso do sistema, como Cadastro de Usuário, Autenticação, Cadastro de Culturas, Registro de Plantio, Controle de Irrigação, Monitoramento de Crescimento, Gestão de Pragas, Planejamento de Colheita e Gestão de Estoque.
+
+Elaboração de Diagrama de Casos de Uso:
+
+Desenvolver o diagrama de casos de uso para representar as interações entre os atores (usuários) e o sistema, identificando as funcionalidades que cada ator pode realizar.
+
+Criação de Diagrama de Classes:
+
+Criar o diagrama de classes para representar a estrutura estática do sistema, incluindo as classes, seus atributos e relacionamentos.
+
+Desenvolvimento de Diagrama de Sequência:
+
+Desenvolver diagramas de sequência para representar as interações entre os objetos do sistema em diferentes cenários, como o fluxo de autenticação de um usuário ou o registro de um novo plantio.
+
+Construção de Diagrama de Atividades:
+
+Construir diagramas de atividades para modelar os processos ou fluxos de trabalho do sistema, como o processo de planejamento de colheita ou o controle de pragas e doenças.
+
+Validação do Modelo UML:
+
+Revisar o modelo UML criado para garantir que ele atenda aos requisitos funcionais e não funcionais do sistema.
+
+Documentação do Modelo:
+
+Documentar o modelo UML, incluindo descrições detalhadas de cada elemento e relacionamento, para facilitar a compreensão e manutenção do sistema.
