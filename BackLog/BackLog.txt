@@ -1,82 +1,31 @@
-Sprint 1:
-Cadastro de Usuário:
-Prioridade: Alta
-Descrição: Permitir que os usuários se cadastrem no sistema, fornecendo
-informações básicas como nome, e-mail e senha.
 
-Autenticação de Usuário:
-Prioridade: Alta
-Descrição: Implementar o sistema de autenticação para permitir que os
-usuários façam login com suas credenciais.
+**1. Gerenciamento de Cultivos**
 
-Interface do Usuário (UI) Básica:
-Prioridade: Alta
-Descrição: Desenvolver uma interface de usuário básica com navegação
-entre as principais seções do sistema.
-*****************************************
-Sprint 2:
-Cadastro de Culturas:
-Prioridade: Alta
-Descrição: Implementar a funcionalidade de cadastro de culturas, incluindo
-nome, descrição e período de plantio.
+| História de Usuário | Descrição |
+|----------------------|-----------|
+| Como usuário, quero ser capaz de adicionar informações sobre os cultivos que estão sendo cultivados na fazenda. | Como usuário, quero registrar informações sobre o nome do cultivo, variedade, data de plantio, área cultivada e qualquer outra informação relevante. |
 
-Registro de Plantio:
-Prioridade: Alta
-Descrição: Permitir que os usuários registrem informações sobre o plantio,
-como data, quantidade de sementes e método de plantio.
+| Tarefa Técnica | Descrição |
+|----------------|-----------|
+| Implementar formulário de adição de cultivos | Desenvolver uma interface de usuário para permitir que os usuários adicionem informações sobre os cultivos, com campos para nome do cultivo, variedade, data de plantio, etc. |
 
-Controle de Irrigação Básico:
-Prioridade: Média
-Descrição: Desenvolver uma funcionalidade básica de controle de irrigação,
-permitindo que os usuários programem a irrigação das plantas.
-*****************************************
-Sprint 3:
-Monitoramento de Crescimento das Plantas:
-Prioridade: Alta
-Descrição: Implementar a funcionalidade de registro e acompanhamento do
-crescimento das plantas, permitindo que os usuários insiram dados como
-altura e estágio de desenvolvimento.
+**2. Gestão de Recursos**
 
-Gestão de Pragas e Doenças:
-Prioridade: Média
-Descrição: Desenvolver uma funcionalidade para o registro e controle de
-pragas e doenças que afetam as plantas.
+| História de Usuário | Descrição |
+|----------------------|-----------|
+| Como usuário, quero monitorar o estoque de insumos, como sementes, fertilizantes e pesticidas. | Como usuário, quero ver uma lista dos insumos disponíveis na fazenda e suas quantidades atualizadas. |
 
-Planejamento de Colheita:
-Prioridade: Média
-Descrição: Permitir que os usuários planejem as colheitas, registrando datas
-previstas e estimativas de produção.
-*****************************************
-Sprint 4:
-Gestão de Estoque de Insumos Agrícolas:
-Prioridade: Alta
-Descrição: Implementar o controle de estoque de insumos agrícolas,
-permitindo o registro de entradas e saídas de itens como sementes,
-fertilizantes e pesticidas.
+| Tarefa Técnica | Descrição |
+|----------------|-----------|
+| Desenvolver sistema de inventário | Criar um sistema que permita aos usuários visualizarem os insumos disponíveis, bem como adicionar, editar ou excluir itens do inventário. |
 
-Análise de Dados e Relatórios Básicos:
-Prioridade: Média
-Descrição: Desenvolver funcionalidades básicas para análise de dados
-agrícolas, incluindo relatórios de produção e desempenho das culturas.
+**3. Gestão de Vendas e Distribuição**
 
-Testes de Usabilidade e Qualidade:
-Prioridade: Alta
-Descrição: Realizar testes de usabilidade e qualidade para garantir que o
-sistema atenda aos requisitos e expectativas dos usuários.
-*****************************************
-Sprint 5:
-Melhorias na Interface do Usuário:
-Prioridade: Média
-Descrição: Realizar melhorias na interface do usuário com base no feedback
-dos testes de usabilidade.
+| História de Usuário | Descrição |
+|----------------------|-----------|
+| Como usuário, quero ser capaz de listar os produtos disponíveis para venda. | Como usuário, quero ver uma lista de todos os produtos disponíveis para compra na fazenda, com fotos, descrições e preços. |
 
-Implementação de Recursos de Segurança:
-Prioridade: Alta
-Descrição: Reforçar a segurança do sistema implementando medidas de
-proteção de dados e prevenção de acessos não autorizados.
+| Tarefa Técnica | Descrição |
+|----------------|-----------|
+| Desenvolver página de catálogo de produtos | Criar uma página na qual os usuários possam visualizar todos os produtos disponíveis para compra, com informações detalhadas e opções de compra. |
 
-Documentação do Sistema:
-Prioridade: Baixa
-Descrição: Elaborar documentação abrangente do sistema, incluindo manuais
-de usuário e guias de desenvolvimento.
-*****************************************
