@@ -1,1 +1,45 @@
+Backlog para Modelagem UML do Sistema de Fazenda Urbana:
 
+Levantamento de Requisitos:
+
+Revisar os requisitos funcionais e não funcionais para identificar os principais elementos do sistema.
+
+Identificação de Entidades:
+
+Identificar as principais entidades do sistema, como Usuário, Cultura, Plantio, Irrigação, Crescimento de Plantas, Pragas e Doenças, Colheita e Estoque de Insumos Agrícolas.
+
+Definição de Atributos:
+
+Definir os atributos de cada entidade com base nos requisitos funcionais, como nome, e-mail e senha para Usuário, nome e período de plantio para Cultura, data e quantidade de sementes para Plantio, entre outros.
+
+Estabelecimento de Relacionamentos:
+
+Estabelecer os relacionamentos entre as entidades, como associações entre Usuário e Cultura (um usuário pode ter várias culturas), Plantio e Cultura (um plantio está associado a uma cultura), entre outros.
+
+Identificação de Casos de Uso:
+
+Identificar os principais casos de uso do sistema, como Cadastro de Usuário, Autenticação, Cadastro de Culturas, Registro de Plantio, Controle de Irrigação, Monitoramento de Crescimento, Gestão de Pragas, Planejamento de Colheita e Gestão de Estoque.
+
+Elaboração de Diagrama de Casos de Uso:
+
+Desenvolver o diagrama de casos de uso para representar as interações entre os atores (usuários) e o sistema, identificando as funcionalidades que cada ator pode realizar.
+
+Criação de Diagrama de Classes:
+
+Criar o diagrama de classes para representar a estrutura estática do sistema, incluindo as classes, seus atributos e relacionamentos.
+
+Desenvolvimento de Diagrama de Sequência:
+
+Desenvolver diagramas de sequência para representar as interações entre os objetos do sistema em diferentes cenários, como o fluxo de autenticação de um usuário ou o registro de um novo plantio.
+
+Construção de Diagrama de Atividades:
+
+Construir diagramas de atividades para modelar os processos ou fluxos de trabalho do sistema, como o processo de planejamento de colheita ou o controle de pragas e doenças.
+
+Validação do Modelo UML:
+
+Revisar o modelo UML criado para garantir que ele atenda aos requisitos funcionais e não funcionais do sistema.
+
+Documentação do Modelo:
+
+Documentar o modelo UML, incluindo descrições detalhadas de cada elemento e relacionamento, para facilitar a compreensão e manutenção do sistema.
