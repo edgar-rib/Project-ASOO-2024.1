@@ -20,15 +20,17 @@ A Sprint atual em andamento é a Sprint 1, iniciada em [01/04/2024] e com previs
 ## Progresso da Sprint Atual
 | Tarefa                          | Responsável      | Estado          |
 |---------------------------------|------------------|-----------------|
-| Refinar as Sprints              | Desenvolvedor A  | Em Progresso    |
+| Refinar as Sprints              | Edgar Ribeiro    | Em Progresso    |
 | Criar a modelagem de caso de uso| Gabriel Ferreira | Em Progresso    |
 
 ## Reuniões
 As reuniões diárias (Daily Scrum) estão sendo realizadas Diariamente, às 23:00, via Discord. As reuniões de planejamento da Sprint, revisão da Sprint e retrospectiva da Sprint estão agendadas para todas a segundas-feiras às 08:25.
 
 ## Documentação Adicional
-- Documento de Requisitos: [Requisitos](https://github.com/edgar-rib/Project-ASOO-2024.1/blob/main/BackLog/Requisitos%20do%20Sistema)
-- Diagramas UML: [Diagramas](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/Diagrama%20UML)
-- Outros recursos: [Prototipo Interface](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/Prototipagem%20Interface%20%20UI)
+- Documento de Requisitos: [Clique aqui](https://github.com/edgar-rib/Project-ASOO-2024.1/blob/main/BackLog/Requisitos%20do%20Sistema)
+- Diagramas UML: [Clique aqui](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/Diagrama%20UML)
+- Diagramas de Classe: [Clique aqui](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/Diagrama%20de%20Classes)
+- Modelagem de dados: [Clique aqui](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/Modelagem%20de%20Dados)
+- Protótipo de interface: [Clique aqui](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/Prototipagem%20Interface%20%20UI)
 
 
