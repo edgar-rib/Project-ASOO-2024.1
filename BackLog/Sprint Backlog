@@ -1,58 +1,50 @@
 Sprint Backlog  
 
- 
+Sprint 1: Levantamento de Requisitos e Identificação de Entidades
 
-Sprint 1: Definição do Projeto 
+Tarefas:
+Revisar os requisitos funcionais e não funcionais para compreensão completa do sistema.
+Identificar as principais entidades do sistema, como Usuário, Cultura, Plantio, Irrigação, Crescimento de Plantas, Pragas e Doenças, Colheita e Estoque de Insumos Agrícolas.
+Definir os atributos iniciais de cada entidade com base nos requisitos funcionais.
 
+Sprint 2: Estabelecimento de Relacionamentos e Identificação de Casos de Uso
 
-Regra de Negócio: Documentar as regras de negócio do sistema, incluindo processos de gerenciamento da fazenda urbana e requisitos do usuário. 
+Tarefas:
+Estabelecer os relacionamentos entre as entidades identificadas.
+Identificar os principais casos de uso do sistema com base nos requisitos funcionais.
+Priorizar os casos de uso de acordo com a importância para o sistema.
 
-Análise de Sistemas Orientada a Objetos: Criar diagramas UML de casos de uso que descrevam as interações entre os atores e o sistema. (Astah) 
+Sprint 3: Elaboração de Diagrama de Casos de Uso
 
-Economia e Mercado: Realizar uma estimativa inicial da viabilidade do projeto, considerando custos de desenvolvimento, possíveis retornos financeiros e análise de mercado. (Excel) 
+Tarefas:
+Desenvolver o diagrama de casos de uso para representar as interações entre os atores e o sistema.
+Identificar os atores do sistema e as funcionalidades que cada um pode realizar.
+Refinar o diagrama de casos de uso com base em feedbacks e revisões.
 
-Gestão Estratégica de Recursos Humanos: Identificar as habilidades e recursos humanos necessários para o projeto, incluindo equipe de desenvolvimento. (Excel) 
+Sprint 4: Criação de Diagrama de Classes e Desenvolvimento de Diagrama de Sequência (Parte 1)
 
+Tarefas:
+Criar o diagrama de classes para representar a estrutura estática do sistema.
+Definir as classes, atributos e relacionamentos iniciais.
+Desenvolver os diagramas de sequência para casos de uso prioritários.
 
-Sprint 2: Projeto e Prototipação 
+Sprint 5: Desenvolvimento de Diagrama de Sequência (Parte 2) e Construção de Diagrama de Atividades (Parte 1)
 
+Tarefas:
+Continuar o desenvolvimento dos diagramas de sequência para os casos de uso restantes.
+Identificar os principais processos ou fluxos de trabalho do sistema para o diagrama de atividades.
+Criar o início do diagrama de atividades para representar os processos identificados.
 
-Análise de Sistemas Orientada a Objetos: Criar diagramas UML de classes e sequência para definir a estrutura e o comportamento do sistema. (Astah) 
+Sprint 6: Construção de Diagrama de Atividades (Parte 2) e Validação do Modelo UML
 
-Projeto de Interface com o Usuário: Iniciar o projeto de telas do sistema, criando wireframes e protótipos de interface para validar os requisitos com os usuários. (Figma) 
+Tarefas:
+Continuar o desenvolvimento do diagrama de atividades para os processos restantes.
+Revisar o modelo UML como um todo para garantir consistência e integridade.
+Validar o modelo UML em relação aos requisitos funcionais e não funcionais do sistema.
 
-Banco de Dados: Desenvolver o diagrama ER do banco de dados, identificando entidades, atributos e relacionamentos necessários para o sistema. (BrModelo) 
+Sprint 7: Documentação do Modelo e Revisão Final
 
-
-Sprint 3: Desenvolvimento do Core 
-
-
-Programação Orientada a Objetos: Desenvolver o Proof of Concept (PoC) em modo console, implementando operações básicas de CRUD (Criar, Ler, Atualizar, Apagar) para validar a arquitetura e o design do sistema. (Visual Studio Community) 
-
-Projeto de Interface com o Usuário: Continuar o projeto de telas do sistema, refinando os wireframes e protótipos com base no feedback recebido. (Figma) 
-
-
-Sprint 4: Implementação e Testes 
-
-
-Programação Orientada a Objetos: Refinar o PoC e implementar funcionalidades básicas de CRUD, utilizando boas práticas de programação e design orientado a objetos. (Visual Studio Community) 
-
-Engenharia de Software: Elaborar uma planilha de testes abrangente que cubra todas as funcionalidades implementadas até o momento, incluindo testes de unidade, integração e sistema. (Excel) 
-
-
-Sprint 5: Refinamentos e Testes 
-
-
-Programação Orientada a Objetos: Continuar o desenvolvimento das funcionalidades de CRUD, realizando ajustes e refinamentos conforme necessário com base no feedback recebido durante a sprint. (Visual Studio) 
-
-Engenharia de Software: Executar testes automatizados e manuais para validar as funcionalidades implementadas, corrigindo eventuais defeitos e garantindo a qualidade do software.  
-
-
-Sprint 6: Finalização e Entrega 
-
-
-Programação Orientada a Objetos: Concluir a implementação das funcionalidades de CRUD e realizar os últimos ajustes e polimentos no código. 
-
-Banco de Dados: Desenvolver scripts de carga de dados de teste para população inicial do banco de dados. 
-
-Engenharia de Software: Finalizar os testes e preparar a entrega do sistema, documentando o processo de desenvolvimento e garantindo a conformidade com os requisitos do usuário. 
+Tarefas:
+Documentar o modelo UML, incluindo descrições detalhadas de cada elemento e relacionamento.
+Elaborar manuais de usuário e guias de desenvolvimento com base no modelo.
+Realizar uma revisão final do modelo UML e da documentação para garantir qualidade e completude.
