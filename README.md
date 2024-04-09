@@ -20,9 +20,9 @@ A Sprint atual em andamento é a Sprint 1: Levantamento de Requisitos e Identifi
 ## Progresso da Sprint Atual
 | Tarefa                                                                              | Responsável      | Estado          |
 |-------------------------------------------------------------------------------------|------------------|-----------------|
-| Revisar os requisitos funcionais e não funcionais                                   | Edgar Ribeiro    | Em Progresso    |
-| Identificar as principais entidades do sistema                                      | Matheus Daniel   | Em Progresso    |
-| Definir os atributos iniciais de cada entidade com base nos requisitos funcionais   | Edgar Ribeiro    | Em Progresso    |
+| Revisar os requisitos funcionais e não funcionais                                   | ***************  | Em Progresso    |
+| Identificar as principais entidades do sistema                                      | ***************  | Em Progresso    |
+| Definir os atributos iniciais de cada entidade com base nos requisitos funcionais   | ***************  | Em Progresso    |
  
 
 
