@@ -18,15 +18,13 @@ O Backlog do Produto contém todas as funcionalidades, requisitos e melhorias pl
 A Sprint atual em andamento é a Sprint 1: Levantamento de Requisitos e Identificação de Entidades, iniciada em [01/04/2024] e com previsão de término em [15/04/2024]. Durante esta Sprint, estamos focados em Refinar as Sprints e realizar a modelagem de caso de uso .
 
 ## Progresso da Sprint Atual
-| Tarefa                          | Responsável      | Estado          |
-|---------------------------------|------------------|-----------------|
-| Revisar os requisitos funcionais
-e não funcionais                  | Edgar Ribeiro    | Em Progresso    |
-  Identificar as principais       | Matheus Daniel   | Em Progresso    |
-  entidades do sistema
-|Definir os atributos iniciais 
-de cada entidade com base 
-nos requisitos funcionais.        | Gabriel Ferreira | Em Progresso    |
+| Tarefa                                                                              | Responsável      | Estado          |
+|-------------------------------------------------------------------------------------|------------------|-----------------|
+| Revisar os requisitos funcionais e não funcionais                                   | Edgar Ribeiro    | Em Progresso    |
+| Identificar as principais entidades do sistema                                      | Matheus Daniel   | Em Progresso    |
+| Definir os atributos iniciais de cada entidade com base nos requisitos funcionais   | Edgar Ribeiro    | Em Progresso    |
+ 
+
 
 ## Reuniões
 As reuniões diárias (Daily Scrum) estão sendo realizadas Diariamente, às 23:00, via Discord. As reuniões de planejamento da Sprint, revisão da Sprint e retrospectiva da Sprint estão agendadas para todas a segundas-feiras às 08:25.
