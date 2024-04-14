@@ -1,0 +1,24 @@
+
+Relacionamento entre Plantio e Fazenda:
+  Cada plantio é associado a uma única fazenda.
+    Relacionamento: Plantio.fazenda_id -> Fazenda.fazenda_id
+
+Relacionamento entre Plantio e Cultura:
+  Cada plantio é de uma única cultura.
+    Relacionamento: Plantio.cultura_id -> Cultura.cultura_id
+
+Relacionamento entre Irrigação e Fazenda:
+  Cada atividade de irrigação ocorre em uma única fazenda.
+    Relacionamento: Irrigação.fazenda_id -> Fazenda.fazenda_id
+
+Relacionamento entre Crescimento de Plantas e Plantio:
+  Cada registro de crescimento de plantas está associado a um único plantio.
+    Relacionamento: Crescimento de Plantas.plantio_id -> Plantio.plantio_id
+
+Relacionamento entre Colheita e Plantio:
+  Cada registro de colheita está associado a um único plantio.
+    Relacionamento: Colheita.plantio_id -> Plantio.plantio_id
+
+Relacionamento entre Estoque de Insumos Agrícolas e Fazenda:
+  Cada entrada/saída de estoque de insumos agrícolas ocorre em uma única fazenda.
+    Relacionamento: Estoque de Insumos Agrícolas.fazenda_id -> Fazenda.fazenda_id
