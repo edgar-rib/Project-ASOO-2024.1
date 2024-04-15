@@ -1,0 +1,44 @@
+Identificação dos Casos de uso
+
+Gerenciamento de Usuários:
+
+Cadastro de novos usuários no sistema.
+Login de usuários.
+Atualização de informações do usuário.
+Remoção de usuários.
+Gerenciamento de Fazendas:
+
+Cadastro de novas fazendas.
+Visualização das fazendas cadastradas.
+Atualização de informações das fazendas.
+Remoção de fazendas.
+
+Gerenciamento de Culturas:
+
+Cadastro de novas culturas.
+Visualização das culturas cadastradas.
+Atualização de informações das culturas.
+Remoção de culturas.
+
+Planejamento de Plantio:
+
+Associação de culturas a fazendas para planejar os plantios.
+Agendamento de plantios em datas específicas.
+Registro da quantidade de sementes e método de plantio.
+
+Monitoramento e Registro de Atividades Agrícolas:
+
+Registro de atividades de irrigação em cada fazenda.
+Registro do crescimento das plantas em cada plantio.
+Registro de colheitas realizadas.
+
+Controle de Estoque de Insumos Agrícolas:
+
+Registro de entrada e saída de insumos agrícolas em cada fazenda.
+Atualização do estoque disponível de cada insumo.
+
+Análise e Relatórios:
+
+Geração de relatórios sobre o crescimento das plantas.
+Relatórios de colheitas realizadas.
+Análise de dados para identificação de padrões e otimização das atividades agrícolas.
