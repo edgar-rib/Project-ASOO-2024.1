@@ -14,7 +14,7 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por:
 ## Backlog do Produto
 O Backlog do Produto contém todas as funcionalidades, requisitos e melhorias planejadas para o sistema de gerenciamento da fazenda urbana. Está disponível [aqui](BackLog).
 
-## [Sprint]([https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/BackLog/Sprints/Sprint%203%20-%20Elabora%C3%A7%C3%A3o%20de%20Diagrama%20de%20Casos%20de%20Uso/Vers%C3%A3o%201.1](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/BackLog/Sprints)
+## [Sprint](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/BackLog/Sprints)
 A Sprint atual em andamento é a [Sprint 3:](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/BackLog/Sprints/Sprint%203%20-%20Elabora%C3%A7%C3%A3o%20de%20Diagrama%20de%20Casos%20de%20Uso/Vers%C3%A3o%201.1) Levantamento de Requisitos e Identificação de Entidades, iniciada em [08/04/2024] e com previsão de término em [16/04/2024]. Durante esta Sprint, estamos focados em Refinar as Sprints e realizar a modelagem de caso de uso. 
 
 ## Progresso da [Sprint Atual](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/BackLog/Sprints/Sprint%203%20-%20Elabora%C3%A7%C3%A3o%20de%20Diagrama%20de%20Casos%20de%20Uso/Vers%C3%A3o%201.1)
