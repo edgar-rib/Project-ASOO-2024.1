@@ -21,9 +21,9 @@ A Sprint atual em andamento é a [Sprint 3:](https://github.com/edgar-rib/Projec
 
 | Tarefa                                                                              | Responsável      | Estado          |
 |-------------------------------------------------------------------------------------|------------------|-----------------|
-| Revisar os requisitos funcionais e não funcionais                                   | ***************  | Em Progresso    |
-| Identificar as principais entidades do sistema                                      | ***************  | Em Progresso    |
-| Definir os atributos iniciais de cada entidade com base nos requisitos funcionais   | ***************  | Em Progresso    |
+| Elaboração dos casos de uso                                                         | Todos            | Em Progresso    |
+
+
  
 
 
