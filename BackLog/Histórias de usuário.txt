@@ -1,0 +1,86 @@
+Épico 1: Cadastro e Gestão de Culturas
+História de Usuário 1.1: Cadastro de Culturas
+Como um usuário, quero ser capaz de cadastrar novas culturas na fazenda
+urbana, incluindo nome, descrição, período de plantio e tempo estimado de
+crescimento.
+
+Critérios de Aceitação:
+Formulário de cadastro de culturas.
+Validação dos campos obrigatórios.
+
+História de Usuário 1.2: Visualização e Edição de Culturas
+Como um usuário, quero visualizar e editar as informações das culturas
+cadastradas.
+
+Critérios de Aceitação:
+Lista de culturas cadastradas.
+Funcionalidade de edição dos dados das culturas.
+*****************************************
+Épico 2: Plantio e Monitoramento
+História de Usuário 2.1: Registro de Plantio
+Como um usuário, quero registrar os detalhes do plantio de cada cultura,
+incluindo data, quantidade de sementes utilizadas e método de plantio.
+
+Critérios de Aceitação:
+Formulário de registro de plantio.
+Associação do plantio à cultura correspondente.
+
+História de Usuário 2.2: Monitoramento de Crescimento
+Como um usuário, quero registrar o crescimento das plantas, incluindo altura,
+peso e estágio de desenvolvimento.
+
+Critérios de Aceitação:
+Interface para inserção dos dados de crescimento.
+Gráficos ou relatórios para visualização do crescimento ao longo do tempo.
+*****************************************
+Épico 3: Controle de Irrigação e Nutrição
+História de Usuário 3.1: Controle de Irrigação
+Como um usuário, quero agendar e controlar a irrigação das plantas,
+baseando-me na umidade do solo e nas necessidades das culturas.
+
+Critérios de Aceitação:
+Interface para programação de irrigação.
+Monitoramento da umidade do solo.
+
+História de Usuário 3.2: Gestão de Nutrição
+Como um usuário, quero registrar e monitorar a aplicação de fertilizantes e
+nutrientes nas culturas.
+
+Critérios de Aceitação:
+Registro de aplicação de fertilizantes.
+Relatórios de consumo de nutrientes por cultura.
+*****************************************
+Épico 4: Gestão de Pragas e Doenças
+História de Usuário 4.1: Identificação de Pragas e Doenças
+Como um usuário, quero identificar e registrar a presença de pragas e
+doenças nas plantas.
+
+Critérios de Aceitação:
+Interface para registro de pragas e doenças.
+Sugestões de tratamento e controle.
+*****************************************
+História de Usuário 4.2: Tratamento e Controle
+Como um usuário, quero registrar e acompanhar o tratamento e controle das
+pragas e doenças identificadas.
+
+Critérios de Aceitação:
+Registro de tratamentos realizados.
+Acompanhamento da eficácia dos tratamentos.
+*****************************************
+Épico 5: Relatórios e Análises
+História de Usuário 5.1: Relatórios de Produção
+Como um usuário, quero gerar relatórios de produção, incluindo dados como
+quantidade de culturas plantadas, colhidas e produtividade.
+
+Critérios de Aceitação:
+Opções para filtrar os dados nos relatórios.
+Exportação dos relatórios em diferentes formatos.
+
+História de Usuário 5.2: Análise de Desempenho
+Como um usuário, quero analisar o desempenho das culturas ao longo do
+tempo, identificando tendências e padrões.
+
+Critérios de Aceitação:
+Gráficos e visualizações para análise de desempenho.
+Comparação entre diferentes culturas e períodos.
+*****************************************
