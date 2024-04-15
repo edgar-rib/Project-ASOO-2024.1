@@ -20,8 +20,7 @@ A Sprint atual em andamento é a [Sprint 3:](https://github.com/edgar-rib/Projec
 ## Progresso da Sprint Atual
 | Tarefa                                                                              | Responsável      | Estado          |
 |-------------------------------------------------------------------------------------|------------------|-----------------|
-| Elaboração dos casos de uso                                                         | Todos            | [Em Progresso](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/BackLog/Sprints/Sprint%203%20-%20Elabora%C3%A7%C3%A3o%20de%20Diagrama%20de%20Casos%20de%20Uso/Vers%C3%A3o%201.1)
-    |
+| Elaboração dos casos de uso                                                         | Todos            | [Em Progresso](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/BackLog/Sprints/Sprint%203%20-%20Elabora%C3%A7%C3%A3o%20de%20Diagrama%20de%20Casos%20de%20Uso/Vers%C3%A3o%201.1)|
 
 
  
