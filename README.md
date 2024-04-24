@@ -36,7 +36,7 @@ O Backlog do Produto contém todas as funcionalidades, requisitos e melhorias pl
 
 
 ## Reuniões
-As reuniões diárias (Daily Scrum) estão sendo realizadas Diariamente, às 23:00, via Discord. As reuniões de planejamento da Sprint, revisão da Sprint e retrospectiva da Sprint estão agendadas para todas a segundas-feiras às 08:25.
+As reuniões diárias (Daily Scrum) estão sendo realizadas Diariamente, às 23:00, via Discord. As reuniões de planejamento da Sprint, revisão da Sprint e retrospectiva da Sprint estão agendadas para todas a segundas-feiras às 08:25. [Relatório Daily Scrum](https://github.com/edgar-rib/Project-ASOO-2024.1/blob/main/BackLog/Requisitos%20do%20Sistema)
 
 ## Documentação Adicional
 - Documento de Requisitos: [Clique aqui](https://github.com/edgar-rib/Project-ASOO-2024.1/blob/main/BackLog/Requisitos%20do%20Sistema)
