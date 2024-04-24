@@ -15,15 +15,19 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por:
 O Backlog do Produto contém todas as funcionalidades, requisitos e melhorias planejadas para o sistema de gerenciamento da fazenda urbana. Está disponível [aqui](BackLog).
 
 ## [Sprint](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/BackLog/Sprints)
-A Sprint atual em andamento é a [Sprint 3:](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/BackLog/Sprints/Sprint%203%20-%20Elabora%C3%A7%C3%A3o%20de%20Diagrama%20de%20Casos%20de%20Uso/Vers%C3%A3o%201.1) Levantamento de Requisitos e Identificação de Entidades, iniciada em [08/04/2024] e com previsão de término em [16/04/2024]. Durante esta Sprint, estamos focados em Refinar as Sprints e realizar a modelagem de caso de uso. 
+   Sprint Backlog: [Clique aqui](https://unipead-my.sharepoint.com/:x:/g/personal/edgar_ribeiro3_aluno_unip_br/EaU-nMXuz4BPk5m3f19zBSoBl1xH115Q-ExXoF3_NAD8AQ?e=c3a1bj)
 
 ## Progresso da Sprint Atual
-| Tarefa                                                                              | Responsável      | Estado          |
-|-------------------------------------------------------------------------------------|------------------|-----------------|
-| Elaboração dos casos de uso                                                         | Todos            | [Em Progresso](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/BackLog/Sprints/Sprint%203%20-%20Elabora%C3%A7%C3%A3o%20de%20Diagrama%20de%20Casos%20de%20Uso/Vers%C3%A3o%201.1)|
+| Sprints        | Responsável      | Tema                                                                                  | Estado          |
+|----------------|------------------|---------------------------------------------------------------------------------------|-----------------|
+| Sprint 01      | Todos            | Levantamento de Requisitos Levantamento de Requisitos e Identificação de Entidades    | [Concluído](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/BackLog/Sprints/Sprint%201%20-%20Levantamento%20de%20Requisitos%20Levantamento%20de%20Requisitos%20e%20Identifica%C3%A7%C3%A3o%20de%20Entidades)|
+| Sprint 02      | Todos            | Estabelecimento de Relacionamentos e Identificação de Casos de Uso                    | [Concluído](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/BackLog/Sprints/Sprint%202%20-%20%20Estabelecimento%20de%20Relacionamentos%20e%20Identifica%C3%A7%C3%A3o%20de%20Casos%20de%20Uso/Vers%C3%A3o%201.1)|
+| Sprint 03      | Todos            | Elaboração de Diagrama de Casos de Uso                                                | [Concluído](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/BackLog/Sprints/Sprint%203%20-%20Elabora%C3%A7%C3%A3o%20de%20Diagrama%20de%20Casos%20de%20Uso)|
+| Sprint 04      | Todos            | Criação de Diagrama de Classes e Desenvolvimento de Diagrama de Sequência             | [Concluído](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/BackLog/Sprints/Sprint%204%20-%20Cria%C3%A7%C3%A3o%20de%20Diagrama%20de%20Classes%20e%20Desenvolvimento%20de%20Diagrama%20de%20Sequ%C3%AAncia/Vers%C3%A3o%201.1)|
+| Sprint 05      | Todos            | Desenvolvimento de Diagrama de Sequência e Construção de Diagrama de Atividades       | [Em Progresso](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/BackLog/Sprints/Sprint%205%20-%20Desenvolvimento%20de%20Diagrama%20de%20Sequ%C3%AAncia%20e%20Constru%C3%A7%C3%A3o%20de%20Diagrama%20de%20Atividades/Vers%C3%A3o%201.1)|
+| Sprint 06      | Todos            | Construção de Diagrama de Atividades (Parte 2) e Validação do Modelo UML              | [Na fila](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/BackLog/Sprints/Sprint%206%20-%20Constru%C3%A7%C3%A3o%20de%20Diagrama%20de%20Atividades%20(Parte%202)%20e%20Valida%C3%A7%C3%A3o%20do%20Modelo%20UML/Vers%C3%A3o%201.1)|
+| Sprint 07      | Todos            | Documentação do Modelo e Revisão Final                                                | [Na fila](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/BackLog/Sprints/Sprint%207%20-%20Documenta%C3%A7%C3%A3o%20do%20Modelo%20e%20Revis%C3%A3o%20Final/Vers%C3%A3o%201.1)|
 
-
- 
 
 
 ## Reuniões
