@@ -14,7 +14,8 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por:
 ## Backlog do Produto
 O Backlog do Produto contém todas as funcionalidades, requisitos e melhorias planejadas para o sistema de gerenciamento da fazenda urbana. Está disponível [aqui](BackLog).
 
-## Sprints: Para visualizar todas as pastas das sprints [Clique aqui](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/BackLog/Sprints)
+## Sprint
+   Para visualizar todas as pastas das Sprints [Clique aqui](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/BackLog/Sprints)
    Sprint Backlog: Para visualizar todo o planejamento das sprints [Clique aqui](https://unipead-my.sharepoint.com/:x:/g/personal/edgar_ribeiro3_aluno_unip_br/EaU-nMXuz4BPk5m3f19zBSoBl1xH115Q-ExXoF3_NAD8AQ?e=c3a1bj)
 
 ## Progresso das Sprints
