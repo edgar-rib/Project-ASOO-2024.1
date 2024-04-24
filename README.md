@@ -19,6 +19,8 @@ O Backlog do Produto contém todas as funcionalidades, requisitos e melhorias pl
    
    Sprint Backlog: Para visualizar todo o planejamento das sprints [Clique aqui](https://unipead-my.sharepoint.com/:x:/g/personal/edgar_ribeiro3_aluno_unip_br/EaU-nMXuz4BPk5m3f19zBSoBl1xH115Q-ExXoF3_NAD8AQ?e=c3a1bj)
 
+    Gráfico de Burndown: Para visualizar o gráfico [Clique aqui](https://unipead-my.sharepoint.com/:x:/g/personal/edgar_ribeiro3_aluno_unip_br/EaU-nMXuz4BPk5m3f19zBSoBl1xH115Q-ExXoF3_NAD8AQ?e=c3a1bj)
+    
 ## Progresso das Sprints
 | Sprints        | Responsável      | Tema                                                                                  | Estado          |
 |----------------|------------------|---------------------------------------------------------------------------------------|-----------------|
