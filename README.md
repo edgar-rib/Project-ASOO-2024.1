@@ -14,10 +14,10 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por:
 ## Backlog do Produto
 O Backlog do Produto contém todas as funcionalidades, requisitos e melhorias planejadas para o sistema de gerenciamento da fazenda urbana. Está disponível [aqui](BackLog).
 
-## [Sprint](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/BackLog/Sprints)
-   Sprint Backlog: [Clique aqui](https://unipead-my.sharepoint.com/:x:/g/personal/edgar_ribeiro3_aluno_unip_br/EaU-nMXuz4BPk5m3f19zBSoBl1xH115Q-ExXoF3_NAD8AQ?e=c3a1bj)
+## [Clique aqui para visualizar todas as pastas das sprints](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/BackLog/Sprints)
+   Sprint Backlog: Para visualizar todo o planejamento das sprints [Clique aqui](https://unipead-my.sharepoint.com/:x:/g/personal/edgar_ribeiro3_aluno_unip_br/EaU-nMXuz4BPk5m3f19zBSoBl1xH115Q-ExXoF3_NAD8AQ?e=c3a1bj)
 
-## Progresso da Sprint Atual
+## Progresso das Sprints
 | Sprints        | Responsável      | Tema                                                                                  | Estado          |
 |----------------|------------------|---------------------------------------------------------------------------------------|-----------------|
 | Sprint 01      | Todos            | Levantamento de Requisitos Levantamento de Requisitos e Identificação de Entidades    | [Concluído](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/BackLog/Sprints/Sprint%201%20-%20Levantamento%20de%20Requisitos%20Levantamento%20de%20Requisitos%20e%20Identifica%C3%A7%C3%A3o%20de%20Entidades)|
@@ -39,6 +39,6 @@ As reuniões diárias (Daily Scrum) estão sendo realizadas Diariamente, às 23:
 - Diagramas de Classe: [Clique aqui](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/Diagrama%20de%20Classes)
 - Modelagem de dados: [Clique aqui](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/Modelagem%20de%20Dados)
 - Protótipo de interface: [Clique aqui](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/Prototipagem%20Interface%20%20UI)
-- Sprint Backlog: [Clique aqui](https://unipead-my.sharepoint.com/:x:/g/personal/edgar_ribeiro3_aluno_unip_br/EaU-nMXuz4BPk5m3f19zBSoBl1xH115Q-ExXoF3_NAD8AQ?e=c3a1bj)
+
 
 
