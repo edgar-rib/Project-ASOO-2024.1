@@ -45,5 +45,11 @@ As reuniões diárias (Daily Scrum) estão sendo realizadas Diariamente, às 23:
 - Modelagem de dados: [Clique aqui](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/Modelagem%20de%20Dados)
 - Protótipo de interface: [Clique aqui](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/Prototipagem%20Interface%20%20UI)
 
+## Produto 1.0 (Minimo Produto Viável)
+- Casos de Uso: [Clique aqui]()
+- Banco de Dados: [Clique aqui]()
+- Classes: [Clique aqui]()
+- Interface: [Clique aqui]()
+
 
 
