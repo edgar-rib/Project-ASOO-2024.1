@@ -38,18 +38,13 @@ O Backlog do Produto contém todas as funcionalidades, requisitos e melhorias pl
 ## Reuniões
 As reuniões diárias (Daily Scrum) estão sendo realizadas Diariamente, às 23:00, via Discord. As reuniões de planejamento da Sprint, revisão da Sprint e retrospectiva da Sprint estão agendadas para todas a segundas-feiras às 08:25. [Relatório Daily Scrum](https://github.com/edgar-rib/Project-ASOO-2024.1/blob/main/BackLog/Requisitos%20do%20Sistema)
 
-## Documentação Adicional
+## Produto 1.0 (Minimo Produto Viável)
 - Documento de Requisitos: [Clique aqui](https://github.com/edgar-rib/Project-ASOO-2024.1/blob/main/BackLog/Requisitos%20do%20Sistema)
 - Diagramas UML: [Clique aqui](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/Diagrama%20UML)
 - Diagramas de Classe: [Clique aqui](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/Diagrama%20de%20Classes)
 - Modelagem de dados: [Clique aqui](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/Modelagem%20de%20Dados)
 - Protótipo de interface: [Clique aqui](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/Prototipagem%20Interface%20%20UI)
 
-## Produto 1.0 (Minimo Produto Viável)
-- Casos de Uso: [Clique aqui]()
-- Banco de Dados: [Clique aqui]()
-- Classes: [Clique aqui]()
-- Interface: [Clique aqui]()
 
 
 
