@@ -17,7 +17,7 @@ O Backlog do Produto contém todas as funcionalidades, requisitos e melhorias pl
 ## Sprint
    Para visualizar todas as pastas das Sprints [Clique aqui](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/BackLog/Sprints)
    
-   Sprint Backlog [Clique aqui](https://github.com/edgar-rib/Project-ASOO-2024.1/blob/main/BackLog/Sprints/Sprint%20Back%20log.pdf) 
+   Sprint Backlog [Clique aqui](https://github.com/edgar-rib/Project-ASOO-2024.1/blob/main/BackLog/Sprints/Sprint%20Backlog.pdf) 
 
    Gráfico de burndown [Clique aqui](https://github.com/edgar-rib/Project-ASOO-2024.1/tree/main/BackLog/Sprints)
 
