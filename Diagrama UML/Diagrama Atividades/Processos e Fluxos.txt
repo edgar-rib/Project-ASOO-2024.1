@@ -1,0 +1,30 @@
+o funcionário base PODE:
+fazer login
+acessar página de perfil
+acessar lista de plantio
+ler os dados do plantio
+adicionar dados referentes ao plantio
+
+o gerente PODE:
+fazer login
+acessar lista de plantio
+acessar lista de fornecedores
+adicionar novas culturas
+arquivar culturas
+inserir dados e informações relacionadas à cultura para geração de gráficos
+adicionar elementos ao estoque
+remover elementos do estoque
+emitir dados
+
+o master PODE:
+fazer login
+acessar lista de plantio
+acessar lista de fornecedores
+acessar página de perfil
+adicionar novos fornecedores
+arquivar fornecedores
+editar fornecedores
+
+distribuir recursos
+
+controlar relatórios
