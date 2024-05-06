@@ -1,4 +1,4 @@
-# Fazenda Urbana - Projeto ASOO-2024.1
+# Cidade Verde - Fazenda Urbana  (Projeto ASOO-2024.1)
 
 ## Visão Geral
 O Projeto ASOO-2024.1 tem como objetivo principal desenvolver a análise de sistema orientado a objetos, baseado no projeto de um sistema de gerenciamento para uma fazenda urbana. Este repositório servirá como o local central para documentação, código-fonte e recursos relacionados ao projeto.
