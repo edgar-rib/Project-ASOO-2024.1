@@ -1,0 +1,26 @@
+Identificação das Entidades
+
+
+Entidade Usuário:
+Atributos: user_id, nome, email, senha.
+
+Entidade Fazenda:
+Atributos: fazenda_id, nome, endereço, tamanho.
+
+Entidade Cultura:
+Atributos: cultura_id, nome, descrição, período de plantio.
+
+Entidade Plantio:
+Atributos: plantio_id, fazenda_id, cultura_id, data, quantidade de sementes, método de plantio.
+
+Entidade Irrigação:
+Atributos: irrigacao_id, fazenda_id, data, duração, observações.
+
+Entidade Crescimento de Plantas:
+Atributos: crescimento_id, plantio_id, altura, estágio de desenvolvimento, data de registro.
+
+Entidade Colheita:
+Atributos: colheita_id, plantio_id, data prevista, estimativa de produção.
+
+Entidade Estoque de Insumos Agrícolas:
+Atributos: estoque_id, fazenda_id, insumo, quantidade, data de entrada, data de saída.
