@@ -1,0 +1,50 @@
+Sprint Backlog  
+
+Sprint 1: Levantamento de Requisitos e Identificação de Entidades
+
+Tarefas:
+Revisar os requisitos funcionais e não funcionais para compreensão completa do sistema.
+Identificar as principais entidades do sistema, como Usuário, Cultura, Plantio, Irrigação, Crescimento de Plantas, Pragas e Doenças, Colheita e Estoque de Insumos Agrícolas.
+Definir os atributos iniciais de cada entidade com base nos requisitos funcionais.
+
+Sprint 2: Estabelecimento de Relacionamentos e Identificação de Casos de Uso
+
+Tarefas:
+Estabelecer os relacionamentos entre as entidades identificadas.
+Identificar os principais casos de uso do sistema com base nos requisitos funcionais.
+Priorizar os casos de uso de acordo com a importância para o sistema.
+
+Sprint 3: Elaboração de Diagrama de Casos de Uso
+
+Tarefas:
+Desenvolver o diagrama de casos de uso para representar as interações entre os atores e o sistema.
+Identificar os atores do sistema e as funcionalidades que cada um pode realizar.
+Refinar o diagrama de casos de uso com base em feedbacks e revisões.
+
+Sprint 4: Criação de Diagrama de Classes e Desenvolvimento de Diagrama de Sequência (Parte 1)
+
+Tarefas:
+Criar o diagrama de classes para representar a estrutura estática do sistema.
+Definir as classes, atributos e relacionamentos iniciais.
+Desenvolver os diagramas de sequência para casos de uso prioritários.
+
+Sprint 5: Desenvolvimento de Diagrama de Sequência (Parte 2) e Construção de Diagrama de Atividades (Parte 1)
+
+Tarefas:
+Continuar o desenvolvimento dos diagramas de sequência para os casos de uso restantes.
+Identificar os principais processos ou fluxos de trabalho do sistema para o diagrama de atividades.
+Criar o início do diagrama de atividades para representar os processos identificados.
+
+Sprint 6: Construção de Diagrama de Atividades (Parte 2) e Validação do Modelo UML
+
+Tarefas:
+Continuar o desenvolvimento do diagrama de atividades para os processos restantes.
+Revisar o modelo UML como um todo para garantir consistência e integridade.
+Validar o modelo UML em relação aos requisitos funcionais e não funcionais do sistema.
+
+Sprint 7: Documentação do Modelo e Revisão Final
+
+Tarefas:
+Documentar o modelo UML, incluindo descrições detalhadas de cada elemento e relacionamento.
+Elaborar manuais de usuário e guias de desenvolvimento com base no modelo.
+Realizar uma revisão final do modelo UML e da documentação para garantir qualidade e completude.
