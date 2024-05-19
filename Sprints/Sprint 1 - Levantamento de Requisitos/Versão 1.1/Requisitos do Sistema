@@ -1,0 +1,62 @@
+Requisitos Fazenda Urbana
+
+Requisitos Funcionais:
+
+Cadastro de Usuário:
+O sistema deve permitir que novos usuários se cadastrem fornecendo informações básicas como nome, e-mail e senha.
+Deve haver validação de e-mail único para evitar duplicatas de contas de usuário.
+
+Autenticação de Usuário:
+Os usuários cadastrados devem ser capazes de fazer login no sistema usando suas credenciais (e-mail e senha).
+O sistema deve verificar a autenticidade das credenciais fornecidas durante o login.
+
+Interface do Usuário (UI) Básica:
+Deve existir uma interface intuitiva que permita a navegação entre as principais seções do sistema.
+A interface deve incluir opções de registro, login e navegação fácil entre funcionalidades.
+
+Cadastro de Culturas:
+Os usuários devem poder cadastrar informações sobre diferentes culturas, incluindo nome, descrição e período de plantio.
+
+Registro de Plantio:
+Deve haver uma funcionalidade para que os usuários registrem informações sobre cada plantio realizado, como data, quantidade de sementes e método de plantio utilizado.
+
+Controle de Irrigação Básico:
+Deve ser possível aos usuários programar a irrigação das plantas de acordo com as necessidades específicas de cada cultura.
+
+Monitoramento de Crescimento das Plantas:
+Os usuários devem ser capazes de registrar e acompanhar o crescimento das plantas, inserindo dados como altura e estágio de desenvolvimento.
+
+Gestão de Pragas e Doenças:
+Deve haver uma funcionalidade para o registro e controle de pragas e doenças que afetam as plantas, permitindo aos usuários identificar e tratar problemas rapidamente.
+
+Planejamento de Colheita:
+Os usuários devem poder planejar as colheitas, registrando datas previstas e estimativas de produção.
+
+Gestão de Estoque de Insumos Agrícolas:
+Deve ser possível aos usuários controlar o estoque de insumos agrícolas, registrando entradas e saídas de itens como sementes, fertilizantes e pesticidas.
+
+Análise de Dados e Relatórios Básicos:
+Deve haver funcionalidades para análise de dados agrícolas, incluindo a geração de relatórios de produção e desempenho das culturas.
+
+
+Requisitos Não Funcionais:
+Segurança:
+Os dados dos usuários devem ser armazenados de forma segura, utilizando técnicas adequadas de criptografia e prevenção de acessos não autorizados.
+
+Desempenho:
+O sistema deve ter um desempenho aceitável mesmo com um grande volume de dados e usuários simultâneos.
+
+Usabilidade:
+A interface do usuário deve ser intuitiva e fácil de usar, permitindo que usuários com diferentes níveis de experiência possam utilizar o sistema sem dificuldades.
+
+Confiabilidade:
+O sistema deve ser confiável e estar disponível para uso a maior parte do tempo, evitando falhas e interrupções inesperadas.
+
+Compatibilidade:
+O sistema deve ser compatível com diferentes navegadores web e dispositivos, garantindo uma experiência consistente para todos os usuários.
+
+Manutenibilidade:
+O sistema deve ser facilmente mantido e atualizado, permitindo a adição de novas funcionalidades e correção de problemas de forma eficiente.
+
+Documentação:
+Deve ser fornecida uma documentação abrangente do sistema, incluindo manuais de usuário e guias de desenvolvimento, para facilitar o entendimento e a manutenção do sistema.
